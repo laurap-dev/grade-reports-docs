@@ -2,6 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Grade Reports Documentation
 description: User guide for Grade Reports for Google Classroom
+url: https://grade-reports.docs.gdev.app
+baseurl: ""
 
 just_the_docs:
   hide_attribution: true

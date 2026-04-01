@@ -35,4 +35,3 @@ Grade Reports connects to your Google Classroom courses and generates profession
 ## Navigation
 
 Use the menu on the left to explore the documentation.
-
